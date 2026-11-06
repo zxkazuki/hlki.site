@@ -1,0 +1,21 @@
+PORTFÓLIO IGOR KAZUKI — AMOLED COM FOTO
+
+HTML, CSS e JavaScript prontos para hospedagem estática.
+Envie todos os arquivos e a pasta assets para a pasta pública da hospedagem,
+com index.html na raiz. Não é necessário instalar dependências ou executar build.
+Não há dependência de login do ChatGPT nos arquivos exportados.
+
+index.html: conteúdo e links.
+style.css: identidade visual, layout e adaptação para celular.
+app.js: detalhes dos projetos.
+assets/igor-kazuki.jpg: foto pessoal exibida discretamente na seção Sobre.
+assets/: logotipos e licença dos ícones Devicon.
+
+A primeira palavra dos títulos em destaque recebe a cor inteira, com apenas
+sua primeira letra em negrito. As classes title-word e o elemento b controlam
+esse detalhe. Os títulos dos detalhes dos projetos seguem a mesma regra.
+As fontes Roboto e Roboto Mono são carregadas do Google Fonts.
+
+Para trocar a foto, substitua assets/igor-kazuki.jpg ou ajuste o caminho no HTML.
+O enquadramento é controlado por object-position em .photo-slot img no CSS.
+Preserve as licenças e os caminhos relativos dos arquivos.
